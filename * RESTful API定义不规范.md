@@ -1,7 +1,7 @@
 #前后端分离开发总结
 
 ## * RESTful API定义不规范
-![不规范的例子](/Users/summer/Desktop/project/13_前后段开发总结/屏幕快照 2017-07-07 下午12.46.42.png)
+![不规范的例子](https://github.com/Summer-Zhang/RESTful/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-07-07%20%E4%B8%8B%E5%8D%8812.46.42.png)
 
 ### 1. 什么是REST（Representational State Transfer）
 REST的名称"表现层状态转化"，省略了主语。"表现层"其实指的是"资源"（Resources）的"表现层"。
@@ -34,7 +34,7 @@ REST的名称"表现层状态转化"，省略了主语。"表现层"其实指的
 
 ------
 
-![不规范的例子](/Users/summer/Desktop/project/13_前后段开发总结/屏幕快照 2017-07-07 下午12.48.26.png)
+![不规范的例子](https://github.com/Summer-Zhang/RESTful/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-07-07%20%E4%B8%8B%E5%8D%8812.48.26.png)
 
 ### 2. RESTful API设计原则
 *  **协议**  
