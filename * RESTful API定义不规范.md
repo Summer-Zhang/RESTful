@@ -122,6 +122,6 @@ DELETE /collection/resource：返回一个空文档
 **就是一开始定API时没考虑清楚，后面做起来的时候没依据API改的随意了。 这是病得治！！！**
 ## * 参考文档
 [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)  
-[Versioning REST Services](http://www.informit.com/articles/article.aspx?p=1566460)
-[前后端分离-Rest Api设计](http://bbear.me/qian-hou-duan-fen-chi-tr/)
-[RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+[Versioning REST Services](http://www.informit.com/articles/article.aspx?p=1566460)  
+[前后端分离-Rest Api设计](http://bbear.me/qian-hou-duan-fen-chi-tr/)  
+[RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)  
